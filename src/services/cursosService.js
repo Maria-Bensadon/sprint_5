@@ -1,7 +1,5 @@
 
-import api from '../api/axios'; 
-
-import api from '../api/axios';
+import api from '../api/axiosInstance'; 
 
 
 export const getCursos = async () => {
